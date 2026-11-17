@@ -1,5 +1,6 @@
 {
   "name": "@yolo-rs/bun-plugin-yolo-engine",
+  "private": true,
   "version": "6.0.0",
   "description": "Universal Bun Bundler & Runtime Plugin for YOLO Engine 6.0 (UE6): Virtual Modules (yolo:engine, yolo:bevy, yolo:wgpu, yolo:craft, yolo:gpui, yolo:egui, yolo:storyteller, yolo:helix, yolo:zed, yolo:steam, yolo:epic, yolo:cross) and Native Asset/Shader/FFI Loaders",
   "type": "module",

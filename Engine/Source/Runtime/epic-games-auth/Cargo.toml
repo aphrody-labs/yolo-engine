@@ -1,4 +1,5 @@
 [package]
+publish = false
 name = "epic-games-auth"
 version.workspace = true
 edition.workspace = true
